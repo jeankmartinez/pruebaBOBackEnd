@@ -1,0 +1,15 @@
+{
+  "name": "pry_api_cosulta",
+  "version": "1.0.0",
+  "description": "api consulta",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jeancarlo432@hotmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^3.6.10",
+    "mongoose": "^5.13.2"
+  }
+}
